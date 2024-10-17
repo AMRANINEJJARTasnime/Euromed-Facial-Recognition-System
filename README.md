@@ -18,7 +18,10 @@ This project implements a **facial recognition system** using **deep learning** 
 - **Model**: 
   - Utilized a **pre-trained AlexNet model**, customized for facial recognition to distinguish between authorized and unauthorized individuals.
 - **Webcam Interface**: 
-  - The system captures live images for real-time facial recognition at the university entrance.
+  - The system captures live images for real-time facial recognition.
 
+## Example
+
+![faceDetection](https://github.com/user-attachments/assets/2a3042be-8d8d-411c-903a-870dabb82a4f)
 
 
